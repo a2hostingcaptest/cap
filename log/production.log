@@ -1,0 +1,8 @@
+
+
+Processing ApplicationController#index (for 68.66.23.230 at 2011-11-30 21:07:14) [GET]
+
+ActionController::RoutingError (No route matches "/rails/info/properties" with {:method=>:get}):
+  
+
+Rendering /home/a2webhos/rails_apps/cap/public/404.html (404 Not Found)
